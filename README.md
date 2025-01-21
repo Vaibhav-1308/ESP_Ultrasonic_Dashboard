@@ -11,12 +11,6 @@ This project demonstrates a distance measurement system powered by the ESP32 mic
 - **Buzzer Alert**: A buzzer is triggered when the measured distance falls below 30 cm, acting as a warning mechanism.
 - **Wi-Fi Data Hosting**: The ESP32 hosts a web server, allowing real-time distance data representation via a user-friendly web interface.
 
-## Project Setup and Web interface
-
-<img src="Project Setup..jpg" alt="Italian Trulli">
-
-<img src="Webpage.png" alt="Italian Trulli">
-
 ## Overview
 
 This system is a compact and interactive solution for proximity detection, offering versatile feedback and remote monitoring:
@@ -47,8 +41,8 @@ This system is a compact and interactive solution for proximity detection, offer
 - Buzzer.
 - Resistors, jumper wires, and a breadboard.
 
-### Installation
+## Project Setup and Web interface
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vaibhav-1308/ESP_Ultrasonic_Dashboard.git
+<img src="Project Setup..jpg" alt="Italian Trulli">
+
+<img src="Webpage.png" alt="Italian Trulli">
